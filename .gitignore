@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Logs and reports
+logs/
+reports/
+
+# IDE files
+.idea/
+.vscode/
+
+# archive folder
+archive/
+
