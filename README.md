@@ -71,12 +71,12 @@ Run a specific file:
 pytest -s tests/test_auth.py
 ```
 
-Current Status
+### Current Status
 
-✔ Authentication module completed
-✔ Fixtures implemented
-✔ Positive + negative test cases done
-✔ Framework structure ready
+- ✔ Authentication module completed
+- ✔ Fixtures implemented
+- ✔ Positive,negative test cases done
+- ✔ Framework structure ready
 
 ### Next Steps
 
