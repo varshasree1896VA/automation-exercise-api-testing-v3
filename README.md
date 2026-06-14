@@ -77,10 +77,10 @@ pytest -s tests/test_auth.py
 - ✔ Fixtures implemented
 - ✔ Positive,negative test cases done
 - ✔ Framework structure ready
-
+- ✔  Product API automation
+  
 ### Next Steps
 
-- Product API automation
 - User API automation
 - Data-driven testing 
 - CI/CD integration with GitHub Actions
