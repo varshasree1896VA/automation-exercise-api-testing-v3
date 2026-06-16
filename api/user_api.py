@@ -7,7 +7,7 @@ def get_user_by_email(email):
 
 # Build function for update user details
 def update_user(payload):
-    return requests.post(f"{BASE_URL}/updateAccount", data=payload)
+    return requests.put(f"{BASE_URL}/updateAccount", data=payload)
 
 #build function for delete user
 def delete_user(payload):
